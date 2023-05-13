@@ -4,10 +4,10 @@ parent:
 -->
 
 <div align="center">
-  <h1> Ethermint </h1>
+  <h1> HNI Protocol </h1>
 </div>
 
-> **IMPORTANT** The ongoing development of this project has migrated to the Tharsis organization. Please use [tharsis/ethermint](https://github.com/tharsis/ethermint) instead of this repository.
+> **IMPORTANT** There is an Ongoing Development of HNI protocol project, hence public access as a validator is not allowed yet.
 
-Ethermint is a scalable, high-throughput Proof-of-Stake blockchain that is fully compatible and
-interoperable with Ethereum. It's build using the the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) which runs on top of [Tendermint Core](https://github.com/tendermint/tendermint) consensus engine.
+HNI Protocol is a scalable, high-throughput Proof-of-Stake blockchain that is fully compatible and
+interoperable with Ethereum. It's build using the the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/) 
