@@ -25,7 +25,7 @@ GO_MOD=GO111MODULE=on
 BUILDDIR ?= $(CURDIR)/build
 SIMAPP = ./app
 LEDGER_ENABLED ?= true
-HTTPS_GIT := https://github.com/cosmos/ethermint.git
+HTTPS_GIT := https://github.com/brokenpieworld/hni-protocol.git
 DOCKER := $(shell which docker)
 DOCKER_BUF := $(DOCKER) run --rm -v $(CURDIR):/workspace --workdir /workspace bufbuild/buf
 
